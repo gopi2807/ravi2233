@@ -1,0 +1,4 @@
+YDbjY*80
+This command should display information about the installed Java version.
+java -version
+java -version
